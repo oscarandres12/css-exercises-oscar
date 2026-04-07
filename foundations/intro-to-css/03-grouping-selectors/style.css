@@ -1,1 +1,4 @@
-/* Add CSS Styling */
+.first{
+    background-color: hsl(0, 100%, 0%);
+    color: #ffffff;
+}
