@@ -2,3 +2,7 @@
     background-color: rgb(233, 159, 159);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+.odd-numbered.extent{
+    font-size: 24px;
+}
