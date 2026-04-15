@@ -1,6 +1,11 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 4px solid white; 
+  padding: 5px;
 }
 
 .logo {
