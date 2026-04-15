@@ -25,6 +25,14 @@ img {
   justify-content: center;
 }
 
+.plants {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  align-items: center;
+  gap: 8px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
