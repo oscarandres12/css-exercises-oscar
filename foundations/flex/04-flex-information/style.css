@@ -19,6 +19,12 @@ img {
   gap: 32px;
 }
 
+.plants-container {
+  display: flex;
+  gap: 52px;
+  justify-content: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
