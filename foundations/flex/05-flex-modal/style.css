@@ -47,6 +47,10 @@ body {
   flex-shrink: 0;
 }
 
+.text {
+  margin: 15px 0;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
