@@ -20,6 +20,12 @@ body {
   background-color: #eeeeee;
 }
 
+.left-links,
+.right-links {
+  display: flex;
+  gap: 10px;
+}
+
 img {
   width: 600px;
 }
