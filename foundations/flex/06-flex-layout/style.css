@@ -26,6 +26,15 @@ body {
   gap: 10px;
 }
 
+.content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
 img {
   width: 600px;
 }
