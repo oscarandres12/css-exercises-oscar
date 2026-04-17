@@ -9,6 +9,13 @@ body {
   flex-direction: column;
 }
 
+.header,
+.footer {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
 img {
   width: 600px;
 }
