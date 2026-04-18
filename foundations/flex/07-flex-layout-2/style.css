@@ -55,6 +55,13 @@ a {
   font-size: 24px;
 }
 
+.card-container {
+  display: flex;
+  gap: 48px;
+  padding: 48px;
+  flex-wrap: wrap;
+}
+
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
